@@ -9,6 +9,10 @@ categories:
 tags:
   - youtube
   - success
+
+gallery:
+  - image_url: /images/youtube.png
+    caption: "Το λογότυπο του Youtube"
 ---
 
 {% include_relative cs-youtube.md %}
